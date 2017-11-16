@@ -1,0 +1,43 @@
+article{
+    padding: 24px;
+   
+}
+ body {
+     display: flex;
+     min-height: 100vh;
+     flex-direction: column;
+ }
+ main {
+     flex: 1 0 auto;
+ }
+ footer{
+    width: 1519px;
+ }
+#naarboven{
+    padding-top:  40px;
+}
+.foto{
+    width: 48%;
+
+}
+#imgscherm{
+    width: 300px;
+    height: 300px;
+}
+.wrapper{
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+#imgschermJS{
+    width: 200px;
+    height: 200px;
+}
+#project{
+    width: 0;
+}
+#RalphPhoto{
+    width: 200px;
+    height: 200px;
+}
